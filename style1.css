@@ -1,0 +1,47 @@
+body {
+	background-image: url('Imagens/fundo.png');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #4b566a;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 19px;
+	color: #868674;
+}
+
+#principal {
+	width: 900px;
+}
+
+#mapa {
+	padding: 25px;
+	background-color: #D4D3BF;
+}
+
+#direitos {
+	text-align: center;
+	font-weight: bold;
+}
+
+#texto {
+	background-color: #FDFBED;
+	padding: 12px;
+	font-size: 16px;
+}
+
+.fotobio {
+	width: 400px;
+	height: 260px;
+	border: 9px solid #D4D3BF;
+}
+
+.fotos {
+	width: 640px;
+	height: 425px;
+	border: 9px solid #D4D3BF;
+}
